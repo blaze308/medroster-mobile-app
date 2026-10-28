@@ -152,7 +152,8 @@ Upload `build/app/outputs/bundle/release/app-release.aab` in Play Console.
 | Repo | Role |
 |------|------|
 | [medroster-backend](https://github.com/blaze308/medroster-backend) | Express + Firestore API |
-| [medroster-frontend](https://github.com/blaze308/medroster-frontend) | Next.js web client |
+| [medroster-web-app](https://github.com/blaze308/medroster-web-app) | Next.js web client |
+| [medroster-mobile-app](https://github.com/blaze308/medroster-mobile-app) | Flutter mobile client (this repo) |
 
 ---
 

@@ -3,26 +3,26 @@
     "platforms": {
       "android": {
         "default": {
-          "projectId": "dev-studio-jay",
-          "appId": "1:273151927050:android:51f15edeb7b14a87ed10f3",
+          "projectId": "medroster-prod",
+          "appId": "1:830851216928:android:0ae57930ff9bd757abae45",
           "fileOutput": "android/app/google-services.json"
         }
       },
       "ios": {
         "default": {
-          "projectId": "dev-studio-jay",
-          "appId": "1:273151927050:ios:0a4de7e8bc3ae1e2ed10f3",
+          "projectId": "medroster-prod",
+          "appId": "1:830851216928:ios:cb2a7b28361e6efdabae45",
           "uploadDebugSymbols": false,
           "fileOutput": "ios/Runner/GoogleService-Info.plist"
         }
       },
       "dart": {
         "lib/firebase_options.dart": {
-          "projectId": "dev-studio-jay",
+          "projectId": "medroster-prod",
           "configurations": {
-            "android": "1:273151927050:android:51f15edeb7b14a87ed10f3",
-            "ios": "1:273151927050:ios:0a4de7e8bc3ae1e2ed10f3",
-            "web": "1:273151927050:web:a99cb0a039c49832ed10f3"
+            "android": "1:830851216928:android:0ae57930ff9bd757abae45",
+            "ios": "1:830851216928:ios:cb2a7b28361e6efdabae45",
+            "web": "1:830851216928:web:6af15b2b752e3d84abae45"
           }
         }
       }
