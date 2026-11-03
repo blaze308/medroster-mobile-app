@@ -9,7 +9,7 @@ class ApiService {
 
   static const _base = String.fromEnvironment(
     'API_URL',
-    defaultValue: 'https://medroster-backend.vercel.app',
+    defaultValue: 'https://medroster-backend-xi.vercel.app',
   );
 
   Map<String, dynamic>? profile;
